@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../../JS"
+	},
+	{
+		"path": "../../../React learn"
+	},
+	{
+		"path": "../../../ReactChai"
+	},
+	{
+		"path": "../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "JS"
+  }
+}
